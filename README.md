@@ -1,1 +1,1 @@
-TinDog Starting Files
+Tindog is a bootstrap based website.
